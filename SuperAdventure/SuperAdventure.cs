@@ -19,7 +19,7 @@ namespace SuperAdventure
         public SuperAdventure()
         {
             InitializeComponent();
-
+                        
             _player = new Player();
 
             _player.CurrentHitPoints = 10;
